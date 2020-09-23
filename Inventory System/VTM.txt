@@ -1,0 +1,2 @@
+[VT Settings]
+Path=F:\Website\Sourcecodester.com\Inventory System\Inventory System\Data\Data.mdb
